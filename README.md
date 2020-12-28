@@ -1,1 +1,2 @@
-# docker_wordpress_website
+
+Setup Wordpress, MySQL & PHPMyadmin with a single command using the Docker compose file.
